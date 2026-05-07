@@ -1,0 +1,16 @@
+{
+  "name": "نظام التقييم الذكي - Little Tsar",
+  "short_name": "Little Tsar",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#8B5CF6",
+  "theme_color": "#8B5CF6",
+  "description": "تطبيق التقييم الذكي لمؤسسة Little Tsar",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
